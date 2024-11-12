@@ -288,7 +288,7 @@ _Keywork arguments `kwargs`:_
     -   `show_parent`: Show the parent for edges, faces and vertices objects
     -   `tools`: Show the viewer tools like the object tree (default=True)
     -   `timeit`: Show rendering times, levels = False, 0,1,2,3,4,5 (default=False)
-    -   `js_debug`: Enable debug output in browser console (default=False)
+    -   `debug`: Enable debug output in browser console (default=False)
 
 -   Not supported any more:
 

@@ -978,7 +978,7 @@ def show(*cad_objs, names=None, colors=None, alphas=None, **kwargs):
     - glass:              Show the viewer in glass mode, i.e (CAD navigation as transparent overlay (default=False)
     - timeit:             Show rendering times, levels = False, 0,1,2,3,4,5 (default=False)
     - parallel:           (Linux only) Whether to use multiprocessing for parallel tessellation
-    - js_debug:           Enable debug output in browser console (default=False)
+    - debug:              Enable debug output in browser console (default=False)
 
     NOT SUPPORTED ANY MORE:
     - mac_scrollbar       The default now
