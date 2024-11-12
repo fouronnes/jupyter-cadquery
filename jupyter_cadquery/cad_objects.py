@@ -941,7 +941,7 @@ def show(*cad_objs, names=None, colors=None, alphas=None, **kwargs):
     - deviation:          Shapes: Deviation from linear deflection value (default=0.1)
     - edge_accuracy:      Edges: Precision of edge discretization (default=None, i.e. mesh quality / 100)
     - default_color:      Default face color (default=(232, 176, 36))
-    - default_edge_color: Default edge color (default="#707070")
+    - default_edgecolor: Default edge color (default="#707070")
     - optimal_bb:         Use optimal bounding box (default=False)
     - render_normals:     Render vertex normals(default=False)
     - render_edges:       Render edges  (default=True)
